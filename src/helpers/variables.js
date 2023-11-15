@@ -1,0 +1,1 @@
+export const serverPath = 'https://circular-bronze-polonium.glitch.me/';
